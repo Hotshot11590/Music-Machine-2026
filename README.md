@@ -1,1 +1,3 @@
-Naming Convention: lastname_firstname_whatitis_v#
+Naming Conventions: 
+lastname_firstname_controller_v#
+lastname_firstname_processing_v#
