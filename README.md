@@ -1,7 +1,20 @@
-Music Machine 2026
+# Music Machine 2026
 
-Naming Conventions:
+A brief description of what this project does and who it's for
 
-lastname_firstname_instrument_controller_v#
+Music Machine 2026 its for a class project and combines multiple intrument controllers together into one game project
+## Contributing
 
-lastname_firstname_instrument_processing_v#
+See conventions below for file naming
+
+Folder format should be: lastname_firstname_player | ex: pagel_ian_player
+
+Indiviual files should be: lastname_firstname_file_version# |
+ex: pagel_ian_controller_v22
+
+Please adhere to this project's naming conventions
+
+
+## Authors
+
+- WIP
