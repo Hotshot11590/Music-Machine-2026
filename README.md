@@ -9,7 +9,7 @@ See conventions below for file naming
 
 Folder format should be: lastname_firstname_player | ex: pagel_ian_player
 
-Indiviual files should be: lastname_firstname_file_version# |
+Indiviual files should be: lastname_firstname_filetype_version# |
 ex: pagel_ian_controller_v22
 
 Please adhere to this project's naming conventions
