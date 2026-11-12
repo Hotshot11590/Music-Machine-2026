@@ -1,0 +1,376 @@
+# Rainbow Road (Mario Kart World) - Viola, Section 1 (measures 57-140)
+# Read from the MuseScore score by resmaantoniol. Section 2 starts at measure 141.
+#
+# One line = one press of the buttons, in order.
+#   57 A3        -> measure 57, a single note A3 (1 button)
+#   59 C4 F4 A4  -> a 3-note chord (3 buttons)
+# Notes in a chord are listed low to high. A press plays one note per button
+# held, lowest first; 3 buttons play every note (also of a 4-note chord).
+# Tied notes are left out: a tie means the bow keeps going with no new press.
+# Measures 101-102 and 139-140 are rests.
+# Measures 103-138 repeat measures 65-100 (written out twice in the score,
+# with a few small differences, e.g. measure 112 vs 74).
+#
+# A wrong note can be fixed here; save, then stop and re-run the Processing sketch.
+# Lines starting with # are ignored ("# page N" lines record the score page).
+
+# page 24
+57 A3
+57 D4
+57 E4
+57 D4
+57 A3
+57 E4
+58 D4
+58 E4
+58 A4
+59 C4 F4 A4
+59 C4 F4 A4
+59 C4 Eb4 Ab4
+# page 25
+60 C4 Eb4 Ab4
+61 F3 Bb3 D4
+61 D4
+61 E4
+61 F4
+# page 26
+62 F3 Bb3 D4 F4
+62 E4
+62 D4
+62 E4
+63 G3 B3 D4 F#4
+63 B3
+63 D4
+63 B3
+63 D4
+# page 27
+64 G3 B3 D4
+64 E4
+64 D4
+64 C#4
+65 D4
+65 F#3 A3
+65 F#3 A3
+# page 28
+66 A3
+67 G3 B3
+# page 29
+68 G3 B3
+69 A3
+69 F#3 A3
+# page 30
+70 F#3 A3 D4
+70 C#4
+70 F#3 A3 C4
+71 E3 G3 C4
+# page 31
+72 G3 E4
+73 G3 B3 D4
+# page 32
+74 G3 B3 D4
+74 F#3 A#3 C#4
+74 A#3
+75 B3
+75 B3 D4
+75 B3 D4
+# page 33
+76 B3
+76 B3
+77 E3 G3
+# page 34
+78 F#3 A3 D4
+79 G3 D4
+# page 35
+80 A3 D4
+80 A3 D4
+81 E4
+81 E4
+81 D4
+81 E4
+81 E4
+81 F#4
+81 D4
+# page 36
+82 E4
+82 E4
+82 D4
+82 E4
+82 E4
+82 F#4
+82 D4
+83 E4
+83 E4
+83 D4
+83 E4
+83 E4
+83 F#4
+83 D4
+# page 37
+84 E4
+84 E4
+84 D4
+84 E4
+84 E4
+84 F4
+84 D4
+85 F3 A3
+85 D3 F3
+86 D3
+86 E3
+86 F3
+86 G3
+# page 38
+87 F3 A3 C#4
+87 F3 G3
+88 G3 Bb3 C#4
+89 A3 C4
+89 C4 E4
+89 C4
+89 D4
+90 A3
+90 G3
+90 A3
+90 G4
+90 F#4
+90 D4
+90 A3
+# page 39
+91 G3
+91 A3
+91 C4 E4 G4
+91 E4
+92 F4
+92 E4
+92 E3 A3 C4
+92 C4
+92 C#4
+93 D4
+93 Bb3
+93 F3
+93 Bb3
+93 D4
+93 Bb3
+93 F3
+93 Bb3
+# page 40
+94 D4
+94 Bb3
+94 F3
+94 Bb3
+94 D4
+94 Bb3
+94 D4
+95 F4
+95 D4
+95 F3
+95 Bb3
+95 D4
+95 Bb3
+95 F3
+95 Bb3
+# page 41
+96 D4
+96 Bb3
+96 F3
+96 Bb3
+96 D4
+96 Bb3
+96 F3
+96 Bb3
+97 D4
+97 B3
+97 G3
+97 B3
+97 D4
+97 B3
+97 G3
+97 B3
+# page 42
+98 D4
+98 B3
+98 G3
+98 B3
+98 D4
+98 B3
+98 G3
+98 B3
+99 D4
+99 B3
+99 G3
+99 B3
+99 D4
+99 B3
+99 G3
+99 B3
+# page 43
+100 E4
+100 D4
+100 A3
+100 D4
+100 E4
+100 D4
+100 A3
+100 E4
+# page 44
+103 D4
+103 F#3 A3
+103 F#3 A3
+104 A3
+# page 45
+105 G3 B3
+106 G3 B3
+# page 46
+107 A3
+107 F#3 A3
+108 F#3 A3 D4
+108 C#4
+108 F#3 A3 C4
+# page 47
+109 E3 G3 C4
+110 G3 E4
+# page 48
+111 G3 B3 D4
+112 G3 B3 D4
+112 F#3 B3 C#4
+112 A#3
+# page 49
+113 B3
+113 B3 D4
+113 B3 D4
+114 B3
+114 B3
+# page 50
+115 E3 G3
+116 F#3 A3 D4
+# page 51
+117 G3 D4
+118 A3 D4
+118 A3 D4
+# page 52
+119 E4
+119 E4
+119 D4
+119 E4
+119 E4
+119 F#4
+119 D4
+120 E4
+120 E4
+120 D4
+120 E4
+120 E4
+120 F#4
+120 D4
+# page 53
+121 E4
+121 E4
+121 D4
+121 E4
+121 E4
+121 F#4
+121 D4
+122 E4
+122 E4
+122 D4
+122 E4
+122 E4
+122 F4
+122 D4
+# page 54
+123 F3 A3
+123 D3 F3
+124 D3
+124 E3
+124 F3
+124 G3
+125 F3 A3 C#4
+125 F3 G3
+126 G3 Bb3 C#4
+127 A3 C4
+127 C4 E4
+127 C4
+127 D4
+128 A3
+128 G3
+128 A3
+128 G4
+128 F#4
+128 D4
+128 A3
+129 G3
+129 A3
+129 C4 E4 G4
+129 E4
+# page 55
+130 F4
+130 E4
+130 E3 A3 C4
+130 C4
+130 C#4
+131 D4
+131 Bb3
+131 F3
+131 Bb3
+131 D4
+131 Bb3
+131 F3
+131 Bb3
+# page 56
+132 D4
+132 Bb3
+132 F3
+132 Bb3
+132 D4
+132 Bb3
+132 D4
+133 F4
+133 D4
+133 F3
+133 Bb3
+133 D4
+133 Bb3
+133 F3
+133 Bb3
+# page 57
+134 D4
+134 Bb3
+134 F3
+134 Bb3
+134 D4
+134 Bb3
+134 F3
+134 Bb3
+135 D4
+135 B3
+135 G3
+135 B3
+135 D4
+135 B3
+135 G3
+135 B3
+# page 58
+136 D4
+136 B3
+136 G3
+136 B3
+136 D4
+136 B3
+136 G3
+136 B3
+137 D4
+137 B3
+137 G3
+137 B3
+137 D4
+137 B3
+137 G3
+137 B3
+# page 59
+138 E4
+138 D4
+138 A3
+138 D4
+138 E4
+138 D4
+138 A3
+138 E4
