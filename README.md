@@ -2,7 +2,8 @@
 
 A brief description of what this project does and who it's for:
 
-Music Machine 2026: it's a class project that combines multiple intrument controllers together into one game project
+Music Machine 2026: A class project that combines multiple instrument controllers together into one game project
+
 ## Contributing
 
 See conventions below for file naming
